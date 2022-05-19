@@ -94,7 +94,7 @@
 
 > 通过刨析大佬代码学到的知识点
 
-- [关于attrs库的研究笔记]()
+- [关于attrs库的研究笔记](https://github.com/isKEKE/ProxyPool/blob/main/articles/%E5%85%B3%E4%BA%8Eattr%E5%BA%93%E7%9A%84%E5%AD%A6%E4%B9%A0.md)
 
 - [协程爬虫的一些知识要点(PS: 这里我还没写完这个东西知识点很多!)]()
 
